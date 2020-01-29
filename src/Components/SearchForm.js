@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {
-    Route,
     withRouter //allows access to this.props.history, otherwise error received: cannot read property of push of undefined below
 } from 'react-router-dom';
 
